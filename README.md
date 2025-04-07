@@ -8,11 +8,7 @@ Each project includes real or simulated data, visualizations, and insights into 
 
 ## 📁 Projects
 
-### 🏥 [Quality Improvement – OR Cancellations](qi-or-cancellation/README.md)
-Reducing elective surgery cancellations through structured QI methods, Excel dashboards, and visual run charts. Includes:
-- Dummy OR data
-- Run chart & department breakdown
-- Summary report & driver diagram
+### 🏥 see above
 
 ---
 
