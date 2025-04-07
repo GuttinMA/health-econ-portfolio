@@ -30,5 +30,5 @@ High same-day cancellation rates (median 17.5%) disrupted patient care and resou
 ---
 *This project is a real-world example of applying healthcare management tools to drive measurable outcomes without code—ideal for health economics and QI roles.*
 [Dummy_OR_Report.xlsx](./Dummy_OR_Report.xlsx) – Simulated OR productivity data for QIP visualization
-![Run Chart of Cancellation Rate](./run_chart_cancellation_rate.png)
+
 
