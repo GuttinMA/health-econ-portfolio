@@ -7,8 +7,7 @@ Each project includes real or simulated data, visualizations, and insights into 
 ---
 
 ## 📁 Projects
-
-### 🏥 see above
+ see above
 
 ---
 
