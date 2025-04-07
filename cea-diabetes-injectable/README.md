@@ -27,7 +27,6 @@ This project evaluates the cost-effectiveness of a hypothetical once-weekly inje
 - `R-script.R` – Full model code
 - `report.md` – Project summary
 - `CE_Plane_Trimmed_Final.png`, `CEAC_final.png`, `OWSA_Final.png` – Visual outputs
-- (Optional) `dummy_data.xlsx` – Source data
 
 ## 💡 Takeaways
 
