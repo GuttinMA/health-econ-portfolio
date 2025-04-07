@@ -23,8 +23,8 @@ Key outcomes included:
 - Visualized progress using run charts and cancellation-by-department summaries
 - Multidisciplinary collaboration and team accountability increased
 
-![Run Chart](../run_chart_cancellation_rate.png)  
-![Cancellations by Department](../cancellations_by_department.png)
+![Run Chart of Cancellation Rate](./run_chart_cancellation_rate.png)
+![cancellations_by_department](./cancellations_by_department.png) 
 
 ## 4. Lessons Learned
 
