@@ -34,13 +34,13 @@ Subgroup analysis showed that the intervention was more cost-effective for:
 ## Visual Outputs
 
 ### Cost-Effectiveness Plane
-![CE Plane](./ce_plane.png)
+![CE Plane](./CE_Plane_Trimmed_Final.png)
 
 ### Cost-Effectiveness Acceptability Curve (CEAC)
-![CEAC](./ceac.png)
+![CEAC](./CEAC_final.png)
 
 ### Tornado Plot (OWSA)
-![Tornado Plot](./tornado.png)
+![Tornado Plot](./OWSA_Final.png)
 
 ## Conclusion
 
